@@ -1,0 +1,76 @@
+body{
+  background-color: aqua;
+}
+.panda-head{
+  border: 5px solid black;
+  width: 200px;
+  height: 120px;
+  position: absolute;
+  top: 200px;
+  left: 600px;
+  border-top-right-radius: 170px ;
+  border-bottom-left-radius: 75px;
+  border-bottom-right-radius: 75px ;
+  border-top-left-radius: 170px;
+  transform: rotate(13deg);
+  background-color: white;
+  
+}
+.panda-upper-body{
+  border: 5px solid black;
+  width: 195px;
+  height: 70px;
+  position: absolute;
+  border-top-left-radius: 80px ;
+  border-top-right-radius: 80px;
+  top: 280px;
+  left: 585px;
+  transform: rotate(5deg);
+  background-color: black;
+}
+.panda-lower-body{
+  border: 5px solid black;
+  width: 195px;
+  height: 115px;
+  position: absolute;
+  border-bottom-left-radius: 90px ;
+  border-bottom-right-radius: 90px;
+  top: 355px;
+  left: 575px;
+  transform: rotate(7deg);
+  background-color: white;
+}
+.panda-left-hand{
+  position: absolute;
+  width: 45px;
+  height: 100px;
+  border:  5px solid black;
+  transform: rotate(145deg);
+  top: -105px;
+  left: -40px;
+  background-color: black;
+  border-radius: 45%;
+}
+.panda-right-hand{
+  position: absolute;
+  width: 45px;
+  height: 110px;
+  border:  5px solid black;
+  transform: rotate(145deg);
+  top: -45px;
+  left: 175px;
+  background-color: black;
+  border-radius: 45%;
+}
+.panda-right-hand{
+  position: absolute;
+  width: 45px;
+  height: 110px;
+  border:  5px solid black;
+  transform: rotate(145deg);
+  top: -45px;
+  left: 175px;
+  background-color: black;
+  border-radius: 45%;
+}
+3
